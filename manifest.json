@@ -1,11 +1,11 @@
 {
-    "name": "Kalnirnay",
-    "short_name": "Kalnirnay",
+    "name": "marathicalender",
+    "short_name": "marathicalender",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "marathi calender 2026",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
