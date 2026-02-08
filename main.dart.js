@@ -63831,8 +63831,8 @@ q===$&&A.a()
 s=q.b
 q=new A.am(new Float64Array(16))
 q.cc()
-q.cz(-s.a*2,-s.b*2,0,1)
-q.n4(3,3,3,1)
+q.cz(-s.a*1.5,-s.b*1.5,0.5,0.5)
+q.n4(2,2,2,1)
 r.sp(q)}}}
 A.a41.prototype={
 $0(){this.a.d.r7($.eR)},
